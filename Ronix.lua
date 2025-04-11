@@ -1,3 +1,5 @@
+-- Слил код @Bern0va официально.
+
 local ScreenGui_1 = Instance.new("ScreenGui")
 ScreenGui_1.Parent = game.CoreGui
 ScreenGui_1.Name = "Ronix"
